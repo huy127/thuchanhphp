@@ -27,7 +27,7 @@ $nghiem= "x= $x";
 
 }
 ?>
-<form action="vidu.php" method="post" >
+<form action="ptb2.php" method="post" >
 <table width="744" border="1">
 <tr>
 <td colspan="3" bgcolor="#336699"><strong>Giải phương trình bậc 1 </strong></td>
